@@ -1,1 +1,1 @@
-# Discord Upgraded Bot
+Simple Discord Upgraded By By Septillioner & Cylops Based discord.py
