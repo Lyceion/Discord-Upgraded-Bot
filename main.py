@@ -1,4 +1,5 @@
 #-*-coding:utf-8-*-
+#DISCORD BOT BY SEPTILLIONER & CYLOPS
 import discord
 import asyncio
 import youtube_dl
@@ -12,7 +13,6 @@ def similar(a, b):
 client = Bot(description="Sepy", command_prefix="./", pm_help = True)
 @client.event
 async def on_ready():
-	#DISCORD BOT BY SEPTILLIONER & CYLOPS
     #for i in client.get_all_members():
     #    print(i)
     hello_messages = ["Selamün aleyküm beyler keyifler nasıl?",
